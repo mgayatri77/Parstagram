@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "2C40D318-89EF-40FA-AEA4-6152A765C83C"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "48C74D73-D3FA-46C6-A02C-BE28DE812956"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Parstagram/LoginViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "40"
+            endingLineNumber = "40"
+            landmarkName = "onSignUp(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "48C74D73-D3FA-46C6-A02C-BE28DE812956 - 9a85526dda84d4c8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Parstagram.LoginViewController.onSignUp(Any) -&gt; ()"
+                  moduleName = "Parstagram"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/malikaniazi/Library/Mobile%20Documents/com~apple~CloudDocs/Documents/CodePath/Parstagram/Parstagram/LoginViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "31"
+                  endingLineNumber = "31"
+                  offsetFromSymbolStart = "1273">
+               </Location>
+               <Location
+                  uuid = "48C74D73-D3FA-46C6-A02C-BE28DE812956 - 980c8b8a175ef763"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Bool, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in Parstagram.LoginViewController.onSignUp(Any) -&gt; ()"
+                  moduleName = "Parstagram"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/malikaniazi/Library/Mobile%20Documents/com~apple~CloudDocs/Documents/CodePath/Parstagram/Parstagram/LoginViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "32"
+                  endingLineNumber = "32"
+                  offsetFromSymbolStart = "189">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
