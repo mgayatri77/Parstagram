@@ -29,7 +29,7 @@ Here's a walkthrough of implemented user stories:
 
 ## Part 2
 
-Time spent: **X** hours spent in total
+Time spent: **4** hours spent in total
 
 ## User Stories
 
